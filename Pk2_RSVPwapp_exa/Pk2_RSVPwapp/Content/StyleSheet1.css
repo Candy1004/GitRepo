@@ -1,0 +1,26 @@
+﻿body {
+background-image:url(images.jpg); 
+    text-align:center; 
+    font-family:'Comic Sans MS';
+    font-size:50px;
+    font-style:italic;
+    color:black;
+
+}
+.field-validation-error {
+color:blueviolet;
+}
+.field-validation-valid {
+    display:none;
+}
+.input-validation-error {
+    border: 50px solid #f00;
+    background-color:#fee;
+}
+.validation-summary-errors {
+    font-weight:200;
+    color:red;
+}
+.valitation-summary-valid {
+    display: none;
+}
